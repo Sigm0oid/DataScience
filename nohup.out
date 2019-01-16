@@ -1,0 +1,81 @@
+[I 07:56:41.030 NotebookApp] Using EnvironmentKernelSpecManager...
+[I 07:56:41.031 NotebookApp] Started periodic updates of the kernel list (every 3 minutes).
+[I 07:56:41.249 NotebookApp] Loading IPython parallel extension
+[I 07:56:41.276 NotebookApp] JupyterLab beta preview extension loaded from /home/ec2-user/anaconda3/lib/python3.6/site-packages/jupyterlab
+[I 07:56:41.276 NotebookApp] JupyterLab application directory is /home/ec2-user/anaconda3/share/jupyter/lab
+[I 07:56:41.457 NotebookApp] [nb_conda] enabled
+[I 07:56:41.460 NotebookApp] Serving notebooks from local directory: /home/ec2-user/kaggle
+[I 07:56:41.460 NotebookApp] 0 active kernels
+[I 07:56:41.460 NotebookApp] The Jupyter Notebook is running at:
+[I 07:56:41.460 NotebookApp] http://localhost:8888/?token=6a670c0867ab42f5f88f9fa1ce6bcd3e2f24d4234745feff
+[I 07:56:41.460 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 07:56:41.461 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://localhost:8888/?token=6a670c0867ab42f5f88f9fa1ce6bcd3e2f24d4234745feff&token=6a670c0867ab42f5f88f9fa1ce6bcd3e2f24d4234745feff
+[I 07:56:41.515 NotebookApp] Starting initial scan of virtual environments...
+[I 07:56:43.594 NotebookApp] Found new kernels in environments: conda_chainer_p27, conda_python3, conda_chainer_p36, conda_amazonei_mxnet_p36, conda_caffe2_p27, conda_caffe_p35, conda_theano_p36, conda_mxnet_p36, conda_amazonei_tensorflow_p27, conda_pytorch_p27, conda_theano_p27, conda_tensorflow_p36, conda_amazonei_mxnet_p27, conda_caffe_p27, conda_pytorch_p36, conda_anaconda3, conda_cntk_p36, conda_python2, conda_tensorflow_p27, conda_mxnet_p27, conda_cntk_p27
+[I 07:56:52.590 NotebookApp] Creating new notebook in 
+[I 07:56:55.739 NotebookApp] Kernel started: 48d9f0a6-e9a9-4c34-a69f-45b98ffc0171
+[I 07:56:56.201 NotebookApp] Adapting to protocol v5.1 for kernel 48d9f0a6-e9a9-4c34-a69f-45b98ffc0171
+[I 07:58:56.094 NotebookApp] Saving file at /New York City Taxi Fare Prediction.ipynb
+[I 08:14:55.824 NotebookApp] Saving file at /New York City Taxi Fare Prediction.ipynb
+[I 08:16:55.825 NotebookApp] Saving file at /New York City Taxi Fare Prediction.ipynb
+[I 08:18:55.822 NotebookApp] Saving file at /New York City Taxi Fare Prediction.ipynb
+[I 08:20:56.124 NotebookApp] Saving file at /New York City Taxi Fare Prediction.ipynb
+[I 08:24:55.825 NotebookApp] Saving file at /New York City Taxi Fare Prediction.ipynb
+[I 08:26:55.831 NotebookApp] Saving file at /New York City Taxi Fare Prediction.ipynb
+[I 08:28:55.928 NotebookApp] Saving file at /New York City Taxi Fare Prediction.ipynb
+[I 09:45:21.992 NotebookApp] Creating new notebook in 
+[I 09:45:25.463 NotebookApp] Kernel started: 67be3a41-8e53-47b5-9269-51bffe284e71
+[I 09:45:26.558 NotebookApp] Adapting to protocol v5.1 for kernel 67be3a41-8e53-47b5-9269-51bffe284e71
+[I 09:47:25.478 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 09:49:25.501 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[W 09:53:56.204 NotebookApp] WebSocket ping timeout after 119888 ms.
+[W 09:53:56.560 NotebookApp] WebSocket ping timeout after 119837 ms.
+[I 09:54:01.209 NotebookApp] Starting buffering for 48d9f0a6-e9a9-4c34-a69f-45b98ffc0171:66880940921247578b16b63267c30d7b
+[I 09:54:01.562 NotebookApp] Starting buffering for 67be3a41-8e53-47b5-9269-51bffe284e71:e740cc5b92e847c091d9663c98868beb
+[I 10:31:06.375 NotebookApp] Kernel interrupted: 48d9f0a6-e9a9-4c34-a69f-45b98ffc0171
+[I 10:31:27.809 NotebookApp] Adapting to protocol v5.1 for kernel 67be3a41-8e53-47b5-9269-51bffe284e71
+[I 10:33:28.072 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 12:41:27.542 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 12:43:27.483 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 12:45:28.027 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 13:47:28.079 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[W 14:10:57.812 NotebookApp] WebSocket ping timeout after 115075 ms.
+[I 14:11:02.815 NotebookApp] Starting buffering for 67be3a41-8e53-47b5-9269-51bffe284e71:3f8f99265fb646e08a755e5cd3adbb4d
+[I 14:42:30.769 NotebookApp] Adapting to protocol v5.1 for kernel 67be3a41-8e53-47b5-9269-51bffe284e71
+[I 14:42:30.770 NotebookApp] Restoring connection for 67be3a41-8e53-47b5-9269-51bffe284e71:3f8f99265fb646e08a755e5cd3adbb4d
+[I 14:58:29.791 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:00:29.721 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:02:30.254 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:04:29.802 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:06:29.726 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:08:29.735 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:10:29.731 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:12:29.830 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:14:29.732 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:16:29.747 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:18:29.730 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:20:29.763 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:22:29.810 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 15:24:30.460 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:00:29.864 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:02:29.807 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:04:29.825 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:06:30.349 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:12:29.954 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:14:29.806 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:16:29.803 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:18:29.827 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:20:29.806 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:22:29.817 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+2019-01-16 16:24:16.497733: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+[I 16:24:29.958 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:26:30.360 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:28:30.041 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:30:30.038 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:32:29.872 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:34:30.394 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
+[I 16:36:07.010 NotebookApp] Saving file at /Titanic_deep_learning.ipynb
