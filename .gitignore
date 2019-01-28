@@ -1,0 +1,5 @@
+# Don't track content of these folders
+data/
+output/
+#ignore those files
+*.out
