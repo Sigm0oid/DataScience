@@ -4,7 +4,7 @@ Repository for my personal Kaggle projects.
 
 ---
 
-Kaggle is a great way to get started on some data science projects/work for people of all skill levels. There are a lot of great beginner projects that you could work on, and more advanced projects as well.
+Kaggle Platform is a great way to get started on some data science projects/work for people of all skill levels. There are a lot of great beginner projects that you could work on, and more advanced projects as well.
 
 I feel like my biggest problem is that I need to break out of the trap of just endlessly watching video lectures and reading books. I need to apply my knowledge.
 
